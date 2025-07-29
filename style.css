@@ -39,3 +39,14 @@ img {
     width: 200px;
     height: 300px;
 }
+
+.outraRecomendacoes {
+    display: flex;
+    overflow-x: auto;
+    gap:0.9%;
+    padding-left: 20px;
+}
+
+h2 {
+    padding-left: 30px;
+}
